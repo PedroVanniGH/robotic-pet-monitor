@@ -41,6 +41,6 @@ The 3D chassis model was designed in Tinkercad.
 
 ## 📷 Prototype Images
 
-[Robot Front](images/robot_front.jpg)
+[Robot Front](images/)
 ## 📅 Development Year
 2024
