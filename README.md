@@ -1,5 +1,6 @@
 # Robotic Pet Monitoring Prototype
 
+
 Academic robotic prototype focused on remote monitoring and interaction with pets at home.
 
 ## 📌 Overview
@@ -55,6 +56,9 @@ The 3D chassis model was designed in Tinkercad.
 
 ![Robot Front](images/)
 
-## 📅 Development Year
+## ✅ Project Status
+
+Completed - Academic Project (2024)
+
 
 2024
